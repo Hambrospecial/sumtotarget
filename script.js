@@ -23,5 +23,3 @@
 }
 let nums = [1, -2, 1, 0, 5], target =3;
 console.log(sumToGivenTarget(nums, target));
-
-// https://github.com/Hambrospecial/sumtotarget.git
